@@ -1,0 +1,14 @@
+# Dependencias de todo el proyecto
+node_modules/
+
+# Archivos de producción / compilación
+dist/
+build/
+
+# Variables de entorno y llaves secretas (Backend y Frontend)
+.env
+.env.local
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
